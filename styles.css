@@ -24,3 +24,8 @@ i, button{
 #msg{
     color:red
 }
+
+.post-container div{
+    word-wrap: break-word;
+    word-break: break-word;
+}
