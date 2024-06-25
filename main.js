@@ -119,7 +119,7 @@ $(document).ready(function () {
         $input.val($postDiv.find("p").html());
         //Remove the $postDiv from the DOM
         $postDiv.remove();
-        //Change the HTML content of the $label elemen to "Edit Post Here "
+        //Change the HTML content of the $label element to "Edit Post Here "
         $label.html("Edit Post Here");
     });
 });
